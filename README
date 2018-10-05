@@ -1,0 +1,6 @@
+LZW Compression
+
+Usage: ./lzw [-rN] <filename>
+
+Flag -rN indicates the recycle code as a power of 2. This code is used to set a bit limit on the compression algorithm, default is 12.
+
